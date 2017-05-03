@@ -1,0 +1,160 @@
+[
+{
+"day":"May, 22nd",
+"time":"09:45",
+"topic": "Assembler /390",
+"speaker" : "Priyanka Mogali",
+"category":1
+},
+{
+"day":"May, 22nd",
+"time":"10:15",
+"topic": "TeX/LaTeX",
+"speaker" : "Jan Alif",
+"category":1
+},
+{
+"day":"May, 22nd",
+"time":"10:45",
+"topic": "FORTH",
+"speaker" : "Kantha Cikaiahgari",
+"category":1
+},
+{
+"day":"May, 22nd",
+"time":"11:30",
+"topic": "Smalltalk",
+"speaker" : "Ayah Tawalbeh",
+"category":2
+},
+{
+"day":"May, 22nd",
+"time":"12:00",
+"topic": "Python",
+"speaker" : "Alexander Dobler",
+"category":2
+},
+{
+"day":"May, 22nd",
+"time":"12:30",
+"topic": "Ruby",
+"speaker" : "Abdul Kamaldheen",
+"category":2
+},
+{
+"day":"May, 23rd",
+"time":"08:30",
+"topic": "Scheme",
+"speaker" : "Shumaya Resty",
+"category":3
+},
+{
+"day":"May, 23rd",
+"time":"09:00",
+"topic": "GO",
+"speaker" : "Marcel Bochtler",
+"category":3
+},
+{
+"day":"May, 23rd",
+"time":"09:30",
+"topic": "Scala",
+"speaker" : "Puneetha Rajashekar",
+"category":3
+},
+{
+"day":"May, 23rd",
+"time":"10:00",
+"topic": "ML/OCAML",
+"speaker" : "Vahid Sheikhalizadeh",
+"category":3
+},
+{
+"day":"May, 23rd",
+"time":"10:45",
+"topic": "COBOL",
+"speaker" : "Prathyusha Pallapati",
+"category":4
+},
+{
+"day":"May, 23rd",
+"time":"11:15",
+"topic": "Fortran",
+"speaker" : "Jyoti Maheshwari",
+"category":4
+},
+{
+"day":"May, 23rd",
+"time":"11:45",
+"topic": "PL/1",
+"speaker" : "Rajani Mogali",
+"category":4
+},
+{
+"day":"May, 23rd",
+"time":"12:15",
+"topic": "ABAP",
+"speaker" : "Hrudya Reddy Aptheeri Reethika",
+"category":4
+},
+{
+"day":"May, 23rd",
+"time":"13:30",
+"topic": "JavaScript",
+"speaker" : "Miriam Denzer",
+"category":5
+},
+{
+"day":"May, 23rd",
+"time":"14:00",
+"topic": "TypeScript",
+"speaker" : "Thomas Reinhardt",
+"category":5
+},
+{
+"day":"May, 23rd",
+"time":"14:30",
+"topic": "PHP",
+"speaker" : "Moritz Schillinger",
+"category":5
+},
+{
+"day":"May, 23rd",
+"time":"15:00",
+"topic": "Prolog",
+"speaker" : "Balasubramanian Nagaraju",
+"category":5
+},
+{
+"day":"May, 23rd",
+"time":"15:45",
+"topic": "Ada",
+"speaker" : "Matthias Betz",
+"category":6
+},
+{
+"day":"May, 23rd",
+"time":"16:15",
+"topic": "Matlab",
+"speaker" : "Rajalakshmi Sankaramahadevan",
+"category":6
+},
+{
+"day":"May, 23rd",
+"time":"16:45",
+"topic": "Bash",
+"speaker" : "Andreas Herzkamp",
+"category":6
+},
+{
+"day":"May, 23rd",
+"time":"17:15",
+"topic": "Perl",
+"speaker" : "Geethasri Ramkumar",
+"category":6
+}
+]
+
+
+
+
